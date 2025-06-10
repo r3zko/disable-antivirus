@@ -6,7 +6,6 @@ A C++ tool to **permanently disable or re-enable** Windows Defender (including T
 ## Features
 - ✅ **Toggle Defender On/Off** with a single executable.
 - 🔒 Modifies Registry, Services, and Tamper Protection.
-- ⚠️ Confirmation prompts to prevent accidental execution.
 - 🔄 Supports reverting changes.
 
 ## Prerequisites
